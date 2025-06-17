@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 - 🚀 I love *exploring new technologies* and building cool things from scratch.
-- 🎓 Currently leveling up in *Data Structures, Algorithms, and OOP in C++,JAva*.
+- 🎓 Currently leveling up in *Data Structures, Algorithms, and OOP in C++,Java*.
 - 🛠️ Often tinkering with side projects that mix logic with creativity.
 
 ---
