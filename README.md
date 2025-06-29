@@ -85,6 +85,15 @@
 ```markdown
 <!-- Uncomment this when Wakatime is ready -->
 <!-- ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=navinoss&theme=react) -->
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=navin-oss&style=flat-square&color=blue" alt="profile views" />
+</p>
+
+<p align="center">
+  <b>Thanks for stopping by! Let’s code the future together 🚀</b>
+</p>
 
 
 
