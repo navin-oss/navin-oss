@@ -1,6 +1,41 @@
 <h1 align="center">👋 Hi there, I’m Navin!</h1>
 
 <p align="center">🌟 Welcome to my digital space on GitHub — a world of curious code and creative solutions.</p>
+---
+## 🔥 Code Activity Nebula
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Exploring+the+cosmos+of+code+...;Fueling+innovation+one+commit+at+a+time!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navin-oss&theme=react-dark&hide_border=true&radius=16&area=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=navin-oss&show_icons=true&theme=radical&hide_border=true&title_color=ff6ec7&icon_color=ffb86c" height="170" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navin-oss&layout=compact&theme=radical&hide_border=true&title_color=ff6ec7" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=navin-oss&theme=onedark&margin-w=10&no-frame=true&column=6" />
+</p>
+
+---
+
+### ✨ Why it Fits the "Code Cosmos" Theme
+
+- ☄️ **Activity Graph** → Galaxy trail of your commits  
+- 🌠 **GitHub Stats** → Star map of your strengths  
+- 🏆 **Trophies** → Constellation of your achievements  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=120&section=footer"/>
+</p>
+
 
 ---
 
