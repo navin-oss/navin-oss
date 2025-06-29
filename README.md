@@ -41,6 +41,10 @@
 ## 📊 GitHub Stats
 
 ![Navin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navin-oss&show_icons=true&theme=react&hide_border=true)
+### 🌍 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/navin-karavade-2baa912b6)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navinkaravade@gmail.com)
+
 
 
 
