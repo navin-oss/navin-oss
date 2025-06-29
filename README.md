@@ -51,6 +51,13 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-282C34?style=for-the-badge&logo=codewars&logoColor=red)
 ![OOP](https://img.shields.io/badge/OOP-Principles-00599C?style=for-the-badge&logo=abstract&logoColor=white)
+<!-- Wakatime stats (if using) -->
+<!-- Sign up at https://wakatime.com -->
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=navinoss&theme=react)
+[![trophy](https://github-profile-trophy.vercel.app/?username=navin-oss&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Visitor Count](https://komarev.com/ghpvc/?username=navin-oss&style=flat-square&color=blue)
+
+
 
 
 
