@@ -38,5 +38,9 @@
 - 🌍 I enjoy traveling and discovering hidden stories in places.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=navin-oss&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  align="center"/>
+## 📊 GitHub Stats
+
+![Navin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navin-oss&show_icons=true&theme=react&hide_border=true)
+
 
 
