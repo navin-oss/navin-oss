@@ -120,6 +120,39 @@
 
 ---
 
+## 🤖 AI & Machine Learning Lab
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7FFF00&center=true&vCenter=true&width=500&lines=Teaching+machines+to+think...;Exploring+the+realm+of+AI+and+ML!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-ML+%7C+AI-0A0A0A?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Framework-Scikit--Learn-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+  🧠 I’m fascinated by how machines learn patterns from data — from linear regression to neural networks.<br>
+  Currently exploring model training, supervised learning, and real-world ML projects.<br>
+  My goal? To solve meaningful problems using intelligent systems. 🔍
+</p>
+
+---
+
+### 🧪 Topics I'm Experimenting With
+- 📊 Supervised & Unsupervised Learning
+- 🔍 Feature Engineering & Data Preprocessing
+- 🧠 Neural Networks & Deep Learning basics
+- 📈 Regression, Classification & Clustering models
+- 🧪 Mini Projects with Scikit-learn and TensorFlow
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f97316&height=80&section=footer"/>
+</p>
+--
+
 ## 🌠 Visitors in the Cosmos
 
 <p align="center">
