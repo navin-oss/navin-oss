@@ -78,15 +78,6 @@
 
 ---
 
-## ⏱️ Coding Stats (WakaTime)
-
-> *You can enable this by linking your GitHub to [Wakatime](https://wakatime.com)*
-
-```markdown
-<!-- Uncomment this when Wakatime is ready -->
-<!-- ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=navinoss&theme=react) -->
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=navin-oss&style=flat-square&color=blue" alt="profile views" />
 </p>
