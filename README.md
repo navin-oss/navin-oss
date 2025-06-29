@@ -44,6 +44,15 @@
 ### 🌍 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/navin-karavade-2baa912b6)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navinkaravade@gmail.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navin-oss&layout=compact&theme=react&hide_border=true)
+### 🛠️ Languages and Tools:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-282C34?style=for-the-badge&logo=codewars&logoColor=red)
+![OOP](https://img.shields.io/badge/OOP-Principles-00599C?style=for-the-badge&logo=abstract&logoColor=white)
+
+
 
 
 
