@@ -85,7 +85,6 @@
 - 🌍 I enjoy traveling and discovering hidden stories in places.
 
 ---
----
 
 ## ♟️ Chessboard of Logic
 
@@ -95,13 +94,28 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Loves-Chess-000000?style=for-the-badge&logo=chess-dot-com&logoColor=white" />
-  <img src="https://img.shields.io/badge/Strategic-Thinking-964B00?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strategic+Mindset-964B00?style=for-the-badge&logo=brains&logoColor=white" />
+  <img src="https://img.shields.io/badge/Favorite+Opening-Sicilian+Defense-303030?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Favorite+Opening-Queen's+Gambit-303030?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
-  🧠 Playing chess every day sharpens my mind and mirrors how I write efficient, strategic code.<br>
-  Whether it’s a pawn push or a system design, I always think five steps ahead. 👑
+  🧠 Chess sharpens my thinking like nothing else. Whether it's a critical position or a complex piece of code,<br>
+  I always try to plan 5 moves ahead. Every decision counts — on the board and in the IDE. 👑
+</p>
+
+---
+
+### ⚡ Chess Achievements
+
+<p align="center">
+  🥇 <strong>Reached 1500+ rating</strong> on Chess.com<br>
+  🏆 <strong>Won 5+ online tournaments</strong> across rapid and blitz formats<br>
+  🌟 <strong>Solved 500+ chess puzzles</strong> on Lichess.org and Chess.com
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0e75b6&height=80&section=footer"/>
 </p>
 
 ---
