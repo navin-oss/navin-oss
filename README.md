@@ -109,7 +109,7 @@
 ### ⚡ Chess Achievements
 
 <p align="center">
-  🥇 <strong>Reached 1500+ rating</strong> on Chess.com<br>
+  🥇 <strong>Reached 1200+ rating</strong> on Chess.com<br>
   🏆 <strong>Won 5+ online tournaments</strong> across rapid and blitz formats<br>
   🌟 <strong>Solved 500+ chess puzzles</strong> on Lichess.org and Chess.com
 </p>
