@@ -85,6 +85,26 @@
 - 🌍 I enjoy traveling and discovering hidden stories in places.
 
 ---
+---
+
+## ♟️ Chessboard of Logic
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Chess+isn't+just+a+game+...;It's+strategy,+discipline,+and+pure+focus!" alt="Chess Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Loves-Chess-000000?style=for-the-badge&logo=chess-dot-com&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strategic-Thinking-964B00?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Favorite+Opening-Queen's+Gambit-303030?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
+  🧠 Playing chess every day sharpens my mind and mirrors how I write efficient, strategic code.<br>
+  Whether it’s a pawn push or a system design, I always think five steps ahead. 👑
+</p>
+
+---
 
 ## 🌠 Visitors in the Cosmos
 
