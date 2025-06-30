@@ -160,6 +160,10 @@
 </p>
 
 ---
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 <p align="center">
   <b>Thanks for visiting! Let’s code the universe together. 🚀🌌</b>
