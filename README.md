@@ -28,20 +28,20 @@
 ## 🌌 GitHub Galaxy Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navin-oss&show_icons=true&theme=radical&hide_border=true&title_color=ff6ec7&icon_color=ffb86c" height="170" />
+  <img src="https://github-readme-stats-nu-orpin.vercel.app/api?username=navin-oss&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navin-oss&layout=compact&theme=radical&hide_border=true&title_color=ff6ec7" height="170" />
+<!-- Skill icons (static, always visible) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,mysql,git" alt="tech stack" />
 </p>
 
----
 
-## 🏆 Trophy Shelf
+🏆 Trophy Shelf
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=navin-oss&theme=onedark&margin-w=10&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=navin-oss&theme=radical&margin-w=15" />
 </p>
 
----
 
 ## 👨‍🚀 About Me
 - 🚀 I love *exploring new technologies* and building cool things from scratch.
