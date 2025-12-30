@@ -41,7 +41,7 @@
 <p align="center">
   <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=navin-oss&theme=radical&margin-w=15" />
 </p>
-
+---
 
 ## 👨‍🚀 About Me
 - 🚀 I love *exploring new technologies* and building cool things from scratch.
