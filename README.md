@@ -1,6 +1,13 @@
 <h1 align="center">🌌 Navin's Code Cosmos 🚀</h1>
 
-<p align="center">✨ Welcome to my digital playground — where curiosity meets code and creativity fuels commits.</p>
+<p align="center">
+  🤖 Welcome to my digital playground — exploring logic, learning machines, and clean code.
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" />
+</p>
+
+
 
 ---
 
@@ -15,15 +22,18 @@
 </p>
 
 ---
-## 🧠 Technologies Used
+🧠 Technologies Used
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</p>
-
----
+🚀 Languages & Core
+<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </p>
+🌐 Web & Backend
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" /> </p>
+🗄️ Databases
+<p align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> </p>
+🤖 AI / ML & Data
+<p align="center"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> </p>
+⚙️ Tools & Platforms
+<p align="center"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> </p>
 
 ## 🌌 GitHub Galaxy Stats
 
@@ -41,7 +51,6 @@
 <p align="center">
   <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=navin-oss&theme=radical&margin-w=15" />
 </p>
----
 
 ## 👨‍🚀 About Me
 - 🚀 I love *exploring new technologies* and building cool things from scratch.
@@ -60,23 +69,10 @@
 ## 🤝 Mission Control: Collaboration
 
 - 🔍 Open-source contributions
-- 💡 Mini-projects in C++ or Web Dev
+- 💡 Mini-projects in java or Web Dev
 - 📦 Beginner-friendly repositories
 
 ---
-
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-282C34?style=for-the-badge&logo=codewars&logoColor=red" />
-  <img src="https://img.shields.io/badge/OOP-Principles-00599C?style=for-the-badge&logo=abstract&logoColor=white" />
-</p>
-
----
-
 ## 💌 Connect with Me
 
 <p align="center">
