@@ -60,7 +60,7 @@
 ---
 
 ## 🌱 Currently Orbiting Around
-- 📘 Advanced C++ (OOP, STL, Templates)
+- 📘Java
 - 🌐 Web Development (HTML, CSS, JavaScript, React)
 - 🤖 Basics of Machine Learning
 
