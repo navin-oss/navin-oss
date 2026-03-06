@@ -127,17 +127,21 @@ philosophy  : "Plan 5 moves ahead — on the board and in the IDE."
 | 🎯 Favorite Openings | Sicilian Defense · Queen's Gambit |
 | 🧠 Chess Philosophy | *"Every position has a truth — find it."* |
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Play%20me%20on-Chess.com-5D8A3C?style=for-the-badge&logo=chess-dot-com&logoColor=white" />
-  <img src="https://img.shields.io/badge/Puzzles%20on-Lichess-B58863?style=for-the-badge&logo=lichess&logoColor=white" />
-</div>
+<p align="center">
+  <a href="https://www.chess.com">
+    <img src="https://img.shields.io/badge/Play%20me%20on-Chess.com-5D8A3C?style=for-the-badge&logo=chess-dot-com&logoColor=white"/>
+  </a>
+  <a href="https://lichess.org">
+    <img src="https://img.shields.io/badge/Puzzles%20on-Lichess-B58863?style=for-the-badge&logo=lichess&logoColor=white"/>
+  </a>
+</p>>
 
 ---
 
 ## 🤖 AI & Machine Learning Lab
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=2500&pause=800&color=7FFF00&center=true&vCenter=true&width=560&lines=🧠+Teaching+machines+to+learn...;📊+Exploring+patterns+in+data...;🔬+From+Linear+Regression+to+Neural+Nets." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=2500&pause=800&color=7FFF00&center=true&vCenter=true&width=560&lines=Teaching+machines+to+learn...;Exploring+patterns+in+data...;From+Linear+Regression+to+Neural+Nets." />
 </div>
 
 ```python
