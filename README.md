@@ -1,21 +1,24 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D2B,50:0e3460,100:6f42c1&height=220&section=header&text=Navin%20Karavade&fontSize=70&fontColor=00F0FF&animation=twinkling&fontAlignY=55&desc=Code%20%E2%9C%A6%20Chess%20%E2%9C%A6%20Cosmos&descSize=22&descAlignY=78&descColor=ffffff" width="100%"/>
+<!-- COSMIC HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0D0D2B,50:0e3460,75:4b2d83,100:6f42c1&height=250&section=header&text=Navin%20Karavade&fontSize=70&fontColor=00F0FF&animation=twinkling&fontAlignY=55&desc=AI%20Engineer%20✦%20Chess%20Strategist%20✦%20Code%20Explorer&descSize=22&descAlignY=75&descColor=ffffff" width="100%"/>
 
-<!-- ANIMATED TYPING TAGLINE -->
+<!-- TYPING TAGLINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+elegant+code...;Teaching+machines+to+think...;Planning+5+moves+ahead+always.;Explorer+of+the+Code+Cosmos." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+elegant+code...;Training+machines+to+think.;Building+AI+that+matters.;Planning+5+moves+ahead.;Exploring+the+Code+Cosmos." />
 </p>
 
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
+<!-- PROFILE BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=navin-oss&style=for-the-badge&color=6f42c1&label=👀+VISITORS" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/navin-oss?style=for-the-badge&color=0e75b6&label=FOLLOWERS&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=navin-oss&style=for-the-badge&color=6f42c1&label=PROFILE+VIEWS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/navin-oss?style=for-the-badge&color=0e75b6&label=FOLLOWERS&logo=github"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 </p>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212259975-1b86c5a7-6d6b-4c6a-bc6d-73d4a4a5c9f3.gif" width="100%">
 
 </div>
 
