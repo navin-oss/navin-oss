@@ -87,7 +87,6 @@ philosophy  : "Plan 5 moves ahead — on the board and in the IDE."
 
 <img src="https://github-readme-stats-nu-orpin.vercel.app/api?username=navin-oss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-nu-orpin.vercel.app/api/top-langs/?username=navin-oss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
