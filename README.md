@@ -1,44 +1,36 @@
 <div align="center">
 
-<!-- COSMIC HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0D0D2B,50:0e3460,75:4b2d83,100:6f42c1&height=250&section=header&text=Navin%20Karavade&fontSize=70&fontColor=00F0FF&animation=twinkling&fontAlignY=55&desc=AI%20Engineer%20✦%20Chess%20Strategist%20✦%20Code%20Explorer&descSize=22&descAlignY=75&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,30:0e3460,70:4b2d83,100:6f42c1&height=220&section=header&text=Navin%20Karavade&fontSize=68&fontColor=ffffff&fontAlignY=50&desc=AI%20Engineer%20%E2%9C%A6%20Chess%20Strategist%20%E2%9C%A6%20Code%20Explorer&descSize=20&descAlignY=70&descColor=00F0FF" width="100%"/>
 
-<!-- TYPING TAGLINE -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+elegant+code...;Training+machines+to+think.;Building+AI+that+matters.;Planning+5+moves+ahead.;Exploring+the+Code+Cosmos." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+AI+that+matters.;Training+machines+to+think.;Planning+5+moves+ahead+%E2%99%9F%EF%B8%8F;Turning+ideas+into+elegant+code." />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=navin-oss&style=flat-square&color=6f42c1&label=PROFILE+VIEWS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/navin-oss?style=flat-square&color=0e75b6&label=FOLLOWERS&logo=github"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat-square&logo=opensourceinitiative&logoColor=white"/>
 </p>
 
-<!-- PROFILE BADGES -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=navin-oss&style=for-the-badge&color=6f42c1&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/navin-oss?style=for-the-badge&color=0e75b6&label=FOLLOWERS&logo=github"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
-</p>
-
-<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212259975-1b86c5a7-6d6b-4c6a-bc6d-73d4a4a5c9f3.gif" width="100%">
 
 </div>
 
 ---
 
-## 🌌 About Me — The Pilot Behind the Code
+## 🌌 About Me
 
 ```yaml
-name        : Navin Karavade
-location    : India 🇮🇳
-currently   : Leveling up in DSA, OOP (Java/C++) & Machine Learning
-passion     : Building things that blend logic with creativity
-chess_elo   : 1200+ | Favorite Opening: Sicilian Defense / Queen's Gambit
-music       : Old Kishore Kumar songs 🎶
-hobby       : Traveling & discovering hidden stories in places 🌍
+name        : Navin Karavade  |  AI/ML Engineer  |  India 🇮🇳
+stack       : Python · Java · React · Node.js · TensorFlow · AWS
+building    : Agentic Finance App · AI Security · Open Source
+chess_elo   : 1200+ · Sicilian Defense · Queen's Gambit
+music       : Kishore Kumar on loop 🎶
 philosophy  : "Plan 5 moves ahead — on the board and in the IDE."
 ```
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" style="border-radius:12px"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" style="border-radius:12px"/>
 </div>
 
 ---
@@ -116,75 +108,30 @@ philosophy  : "Plan 5 moves ahead — on the board and in the IDE."
 
 ---
 
-## ♟️ The Chess Grandmaster's Corner
+## ♟️ Chess · 🤖 ML · 🌱 Now
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=580&lines=Chess+isn't+just+a+game...;It's+strategy,+discipline,+and+pure+focus.;Every+move+is+a+decision+that+matters." />
+
+| ♟️ Chess | 🤖 ML Journey | 🌱 Currently |
+|:---|:---|:---|
+| 1200+ ELO & climbing | Supervised · Unsupervised | Agentic Finance App |
+| 5+ tournament wins | Deep Learning Basics | DSA in Java |
+| 500+ puzzles solved | TF · Sklearn · Pandas | Open Source Contributions |
+| Sicilian · Queen's Gambit | Feature Eng · EDA | AWS · MLOps |
+
 </div>
 
-| 🏅 Achievement | 🔢 Detail |
-|:---|:---|
-| ♟️ Chess.com Rating | **1200+** and climbing |
-| 🏆 Online Tournaments | Won **5+** across Rapid & Blitz formats |
-| 🧩 Puzzles Solved | **500+** on Lichess & Chess.com |
-| 🎯 Favorite Openings | Sicilian Defense · Queen's Gambit |
-| 🧠 Chess Philosophy | *"Every position has a truth — find it."* |
+> ♟️ *"Every position has a truth — find it."* &nbsp;·&nbsp; 🎶 *Kishore Kumar: best debugging companion.*
 
 <p align="center">
   <a href="https://www.chess.com">
-    <img src="https://img.shields.io/badge/Play%20me%20on-Chess.com-5D8A3C?style=for-the-badge&logo=chess-dot-com&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Play%20me%20on-Chess.com-5D8A3C?style=flat-square&logo=chess-dot-com&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://lichess.org">
-    <img src="https://img.shields.io/badge/Puzzles%20on-Lichess-B58863?style=for-the-badge&logo=lichess&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Puzzles%20on-Lichess-B58863?style=flat-square&logo=lichess&logoColor=white"/>
   </a>
-</p>>
-
----
-
-## 🤖 AI & Machine Learning Lab
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=2500&pause=800&color=7FFF00&center=true&vCenter=true&width=560&lines=Teaching+machines+to+learn...;Exploring+patterns+in+data...;From+Linear+Regression+to+Neural+Nets." />
-</div>
-
-```python
-# Navin's ML Journey
-topics = {
-    "Supervised Learning"   : ["Regression", "Classification", "SVMs"],
-    "Unsupervised Learning" : ["Clustering", "Dimensionality Reduction"],
-    "Deep Learning Basics"  : ["Neural Networks", "Backpropagation"],
-    "Data Engineering"      : ["Feature Engineering", "Preprocessing", "EDA"],
-    "Frameworks"            : ["Scikit-Learn", "TensorFlow", "Pandas", "NumPy"],
-}
-
-goal = "Solve meaningful problems using intelligent systems 🔍"
-```
-
----
-
-## 🌱 Currently Orbiting
-
-<div align="center">
-
-| 🚀 Domain | 🔧 Focus |
-|:---|:---|
-| 📘 Java | Data Structures & OOP Mastery |
-| 🌐 Web Dev | HTML · CSS · JavaScript · React |
-| 🤖 Machine Learning | Supervised Learning & Model Building |
-| 🧠 Algorithms | Problem Solving & Competitive Thinking |
-
-</div>
-
----
-
-## 🤝 Open for Collaboration
-
-<div align="center">
-
-🔍 **Open-source contributions** — Let's build something meaningful together  
-💡 **Mini-projects** in Java or Web Dev — ideas welcome!  
-📦 **Beginner-friendly repos** — making tech accessible  
-
-</div>
+</p>
 
 ---
 
@@ -218,18 +165,9 @@ goal = "Solve meaningful problems using intelligent systems 🔍"
 
 ---
 
-## 🎯 Fun Facts About the Pilot
-
-> ♟️ Chess lover — plays almost every day and analyzes games like code reviews  
-> 🎶 Kishore Kumar's melodies are the soundtrack to every debugging session  
-> 🌍 Traveler at heart — finds hidden stories in every place visited  
-> 💻 Believes the best code, like the best chess move, is **elegant, purposeful, and inevitable**
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,50:0e3460,100:0D0D2B&height=120&section=footer&text=Thanks%20for%20visiting%20the%20Cosmos!%20🚀&fontSize=22&fontColor=00F0FF&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,50:0e3460,100:0D0D2B&height=110&section=footer&text=Thanks%20for%20visiting%20the%20Cosmos!%20%F0%9F%9A%80&fontSize=20&fontColor=00F0FF&fontAlignY=65" width="100%"/>
 
 **"The universe is made of code — let's explore it together."** 🌌
 
