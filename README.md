@@ -35,7 +35,7 @@ philosophy  : "Plan 5 moves ahead — on the board and in the IDE."
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal..
 
 ### 🚀 Languages & Core
 
