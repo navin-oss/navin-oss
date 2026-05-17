@@ -134,14 +134,14 @@ philosophy  : "Plan 5 moves ahead — on the board and in the IDE."
 </p>
 
 ---
-
 ## 🏆 Trophy Shelf
 
 <p align="center">
-  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=navin-oss&theme=radical&margin-w=15" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=navin-oss&theme=tokyonight&no-frame=true&row=1&column=7" 
+  />
 </p>
 
----
 
 ## 🏅 Open Source Badge
 
