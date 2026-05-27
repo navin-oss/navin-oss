@@ -137,21 +137,9 @@ philosophy  : "Plan 5 moves ahead — on the board and in the IDE."
 
 ## 🌌 Developer Universe
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=navin-oss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=navin-oss&theme=tokyonight&hide_border=true" height="180"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navin-oss&theme=tokyo-night&hide_border=true&radius=16&area=true" width="95%"/>
-
-</div>
 
 <br/>
 
