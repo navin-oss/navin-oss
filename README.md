@@ -185,7 +185,7 @@ philosophy  : "Plan 5 moves ahead — on the board and in the IDE."
 </div>
 
 ---
-<h2 align="center">🏆 Certifications & Badges</h2>
+<h2>🏆 Certifications & Badges</h2>
 
 <div align="center">
 
