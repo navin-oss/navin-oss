@@ -185,6 +185,21 @@ philosophy  : "Plan 5 moves ahead — on the board and in the IDE."
 </div>
 
 ---
+<h2 align="center">🏆 Certifications & Badges</h2>
+
+<div align="center">
+
+  <a href="https://www.credly.com/badges/ed21468f-dd69-4788-b234-7e311946d6f7/public_url">
+    <img
+      src="https://images.credly.com/size/220x220/images/0b4c54ef-b1d8-4aa7-a658-230b74dec7f6/blob"
+      height="140"
+      alt="Credly Badge"
+    />
+  </a>
+
+</div>
+
+---
 
 ## 💌 Mission Control — Let's Connect
 
