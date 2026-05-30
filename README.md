@@ -190,14 +190,19 @@ philosophy  : "Plan 5 moves ahead — on the board and in the IDE."
 <div align="center">
 
   <a href="https://www.credly.com/badges/ed21468f-dd69-4788-b234-7e311946d6f7/public_url">
-    <img
-      src="https://images.credly.com/size/220x220/images/0b4c54ef-b1d8-4aa7-a658-230b74dec7f6/blob"
-      height="140"
-      alt="Credly Badge"
-    />
+    <img src="https://images.credly.com/size/220x220/images/0b4c54ef-b1d8-4aa7-a658-230b74dec7f6/blob"
+         height="140"
+         alt="AWS Badge"/>
+  </a>
+
+  <a href="#">
+    <img src="https://images.credly.com/size/680x680/images/73c08e76-eb9c-4c03-92da-3dad49e99e5a/Getting_Started_With_Artificial_Intelligence_Badge.png"
+         height="140"
+         alt="Getting Started With Artificial Intelligence"/>
   </a>
 
 </div>
+
 
 ---
 
