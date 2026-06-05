@@ -195,12 +195,18 @@ philosophy  : "Plan 5 moves ahead — on the board and in the IDE."
 
 <div align="center">
 
-  
+
   <a href="https://www.credly.com/badges/ed21468f-dd69-4788-b234-7e311946d6f7/public_url" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/0b4c54ef-b1d8-4aa7-a658-230b74dec7f6/blob"
          height="140"
          alt="AWS Badge"/>
   </a>
+  <a href="https://images.credly.com/size/680x680/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob" target="_blank">
+    <img
+        src="https://images.credly.com/size/680x680/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob"
+        alt="AWS Badge"
+        height="140">
+</a>
 
   
   <a href="#" target="_blank">
