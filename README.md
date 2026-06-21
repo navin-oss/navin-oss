@@ -182,12 +182,6 @@ philosophy  : "Plan 5 moves ahead — on the board and in the IDE."
     <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWxqeWYzaWcwMDAwbDcwNHJxb3NqcnN4IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="140"/>
   </a>
 
- <a href="https://gssoc.girlscript.tech/" target="_blank">
-  <img src="https://github.com/navin-oss/navin-oss/blob/main/contributor.png?raw=true"
-       height="140"
-       alt="GSSoC 2026 Contributor Badge"/>
-</a>
-
 </div>
 
 ---
@@ -222,6 +216,10 @@ philosophy  : "Plan 5 moves ahead — on the board and in the IDE."
          alt="Credly Badge"/>
   </a>
 
+
+  <img src="https://developers.google.com/static/profile/badges/events/cloud/five-day-ai-agents/badge.png"
+       alt="Google Cloud Five-Day AI Agents Badge"
+       height="140"/>
 </div>
 
 
