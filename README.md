@@ -134,20 +134,15 @@ philosophy  : "Plan 5 moves ahead — on the board and in the IDE."
 </p>
 
 ---
-
 ## 🌌 Developer Universe
-
-
-
-
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navin-oss&theme=tokyonight" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navin-oss&theme=tokyonight" height="170" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navin-oss&theme=tokyonight" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navin-oss&theme=tokyonight" height="170" />
 
 </div>
 
@@ -155,7 +150,7 @@ philosophy  : "Plan 5 moves ahead — on the board and in the IDE."
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navin-oss&theme=tokyonight" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navin-oss&theme=tokyonight" width="95%" />
 
 </div>
 
