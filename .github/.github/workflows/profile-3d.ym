@@ -1,0 +1,108 @@
+name: 🌌 3D Profile Metrics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  # ═══════════════════════════════════════════════════════════════
+  # 🧊 3D Contribution Skyline (yoshi389111/github-profile-3d-contrib)
+  # ═══════════════════════════════════════════════════════════════
+  skyline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🧊 Generate 3D Contribution Skyline
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: navin-oss
+
+      - name: 📤 Auto-Commit 3D Skyline SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🧊 feat: regenerate 3D contribution skyline"
+          file_pattern: "profile-3d-contrib/*.svg"
+          branch: main
+
+  # ═══════════════════════════════════════════════════════════════
+  # 🪐 Isometric 3D Contribution Calendar (lowlighter/metrics)
+  # ═══════════════════════════════════════════════════════════════
+  isometric-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🪐 Generate Isometric 3D Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: github-metrics.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Kolkata
+
+      - name: 📤 Auto-Commit Metrics SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🪐 feat: regenerate isometric 3D calendar"
+          file_pattern: "github-metrics.svg"
+          branch: main
+
+  # ═══════════════════════════════════════════════════════════════
+  # 🏆 Trophy Case SVG (Erik-Donath/github-profile-trophy)
+  # ═══════════════════════════════════════════════════════════════
+  trophies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🏆 Generate Trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: navin-oss
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: algolia
+          no-frame: true
+          no-bg: true
+          row: 2
+          column: 4
+
+      - name: 📤 Auto-Commit Trophy SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🏆 feat: regenerate trophy case"
+          file_pattern: "trophy.svg"
+          branch: main
+
+  # ═══════════════════════════════════════════════════════════════
+  # 🐍 Commit Serpent (Platane/snk)
+  # ═══════════════════════════════════════════════════════════════
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Generate Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: navin-oss
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: 📤 Push Snake to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
