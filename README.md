@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D2B,50:2d1b69,100:7c3aed&height=220&section=header&text=Navin%20Karavade&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%9C%A6%20Chess%20Strategist%20%E2%9C%A6%20Code%20Explorer&descSize=19&descAlignY=58&descColor=c4b5fd" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+AI+that+matters.;Training+machines+to+think.;Planning+5+moves+ahead+%E2%99%9F%EF%B8%8F;Turning+ideas+into+elegant+code." />
