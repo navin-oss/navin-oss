@@ -80,9 +80,7 @@ philosophy  : "Plan 5 moves ahead — on the board and in the IDE."
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=navin-oss&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=navin-oss&theme=tokyonight&hide_border=true" width="600"/>
-</div>
+
 
 ---
 
