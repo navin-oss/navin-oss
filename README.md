@@ -26,7 +26,7 @@
 ## 🌌 About Me
 
 ```yaml
-name        : Navin Karavade  |  AI/ML Engineer  |  India 🇮🇳
+name        : Navin Karavade |  AI/ML Engineer  |  India 🇮🇳
 stack       : Python · Java · React · Node.js · TensorFlow · AWS
 building    : Agentic Finance App · AI Security · Open Source
 chess_elo   : 1200+ · Sicilian Defense · Queen's Gambit
